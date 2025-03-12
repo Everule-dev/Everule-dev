@@ -4,7 +4,7 @@
 ===========================================================================================
 
 <h2 align="center"> Full-Stack Developer | Freelancer | Tech Educator</h2>
--------------------------------------------------
+-------------------------------------------------   -------------------------------------------------   -------------------------------------------------
 
 Your full-stack developer, blockchain enthusiast, and tech mentor dedicated to building scalable digital solutions, empowering aspiring developers, and shaping the future of Web3.
 
