@@ -1,12 +1,16 @@
  ![httpsgithub comEverule-dev](https://github.com/user-attachments/assets/498372f1-df5a-4193-a6e3-c9dcb72d56f7)
 
-My name is Iniobong Ekanem
-=======================================================================================================================================
+<h1 align="center">My name is Iniobong Ekanem </h1>
+===========================================================================================
 
-Full-Stack Developer | Freelancer | Tech Educator
+<h2 align="center"> Full-Stack Developer | Freelancer | Tech Educator</h2>
 -------------------------------------------------
 
-Hi, I’m Everule! A passionate full-stack developer, tech mentor, and freelancer with expertise in crafting scalable web solutions, mentoring aspiring developers, and driving innovation in the digital space. A self-taught developer, I’ve spent countless hours mastering skills in programming, web development, and automation. My technical expertise spans PHP, JavaScript, Laravel, HTML, CSS, React, and Web3, among other tools and frameworks. I thrive on tackling complex challenges, whether it’s building e-commerce platforms, automation tools, or Web3 projects, or leading tech education initiatives. 
+Your full-stack developer, blockchain enthusiast, and tech mentor dedicated to building scalable digital solutions, empowering aspiring developers, and shaping the future of Web3.
+
+💡 With expertise in PHP, JavaScript, Laravel, HTML, CSS, React, and blockchain technologies, I specialize in developing decentralized applications (dApps), smart contracts, and Web3 integrations that drive innovation in the digital economy. My work spans across NFT platforms, DeFi solutions, and blockchain-powered automation tools, ensuring security, transparency, and efficiency in modern applications.
+
+🌍 Beyond coding, I’m committed to tech education and community building, mentoring developers and leading discussions on blockchain adoption, decentralized finance, and the future of the internet. Whether it’s optimizing backend architectures, enhancing smart contract security, or exploring Layer 2 scaling solutions, I thrive on pushing the boundaries of Web3 technology.
 
 💡 What I Do <br>
 🔹 Student Coordinator at Mita School, leading student programs and tech events. <br>
