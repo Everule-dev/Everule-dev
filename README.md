@@ -9,22 +9,22 @@ Full-Stack Developer | Freelancer | Tech Educator
 Hi, I’m Everule! A passionate full-stack developer, tech mentor, and freelancer with expertise in crafting scalable web solutions, mentoring aspiring developers, and driving innovation in the digital space. A self-taught developer, I’ve spent countless hours mastering skills in programming, web development, and automation. My technical expertise spans PHP, JavaScript, Laravel, HTML, CSS, React, and Web3, among other tools and frameworks. I thrive on tackling complex challenges, whether it’s building e-commerce platforms, automation tools, or Web3 projects, or leading tech education initiatives. 
 
 💡 What I Do 
-🔹 Student Coordinator at Mita School, leading student programs and tech events. 
-🔹 Founder of my own tech agency, specializing in Web3, custom web solutions, and automation. 
-🔹 Freelancer & Consultant, offering web development, blockchain solutions, and digital marketing services. 
+🔹 Student Coordinator at Mita School, leading student programs and tech events. <br>
+🔹 Founder of my own tech agency, specializing in Web3, custom web solutions, and automation. <br>
+🔹 Freelancer & Consultant, offering web development, blockchain solutions, and digital marketing services. <br>
 
-🔥 Projects & Experience 
-💻 Developed a Shop Website using Laravel & Bootstrap 5.
-🤖 Built automation tools like Telegram Channel Copier Bot. 
-🎓 Mentored students in PHP, Laravel, Web3, and MySQL. 
-🎙️ Hosted and managed Tech Events including Ibom Blockchain Summit and Tech Love.
+🔥 Projects & Experience <br>
+💻 Developed a Shop Website using Laravel & Bootstrap 5.<br>
+🤖 Built automation tools like Telegram Channel Copier Bot. <br>
+🎓 Mentored students in PHP, Laravel, Web3, and MySQL. <br>
+🎙️ Hosted and managed Tech Events including Ibom Blockchain Summit and Tech Love.<br>
 
-* 🖥️  See my portfolio at [Github](http://github.com/Everule-dev/)
-* ✉️  You can contact me at [iniobongumoekanem@outlook.com](mailto:iniobongumoekanem@outlook.com)
-* 🚀  I'm currently working on [Mitaschool](http://mitaschool.com/)
-* 🧠  I'm learning Digital Marketing
-* 🤝  I'm open to collaborating on Cash Drop Tech
-* ⚡  Coding is harder than Heartbreak
+* 🖥️  See my portfolio at [Github](http://github.com/Everule-dev/)<br>
+* ✉️  You can contact me at [iniobongumoekanem@outlook.com](mailto:iniobongumoekanem@outlook.com)<br>
+* 🚀  I'm currently working on [Mitaschool](http://mitaschool.com/)<br>
+* 🧠  I'm learning Digital Marketing<br>
+* 🤝  I'm open to collaborating on Cash Drop Tech<br>
+* ⚡  Coding is harder than Heartbreak<br>
 
 <a href="https://www.github.com/Everule-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Everule-dev?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.twitch.tv/everule" target="_blank" rel="noreferrer"><img
