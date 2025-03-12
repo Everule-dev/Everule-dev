@@ -34,6 +34,13 @@ Your full-stack developer, blockchain enthusiast, and tech mentor dedicated to b
 src="https://img.shields.io/github/followers/Everule-dev?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.twitch.tv/everule" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/everule?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
+### 🔗 **Blockchain & Web3 Expertise**
+- **Smart Contracts:** Solidity, Hardhat, Foundry, OpenZeppelin
+- **dApp Development:** Web3.js, Ethers.js, IPFS, Moralis
+- **DeFi & Crypto:** Uniswap, Chainlink Oracles, Wallet Integrations
+- **Layer 2 Solutions:** Polygon, Arbitrum, Optimism
+- **Security & Audits:** Smart contract security, Gas optimizations
+
 ### Skills
 
 
