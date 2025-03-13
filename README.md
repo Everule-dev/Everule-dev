@@ -3,19 +3,19 @@
 <h1 align="center">My name is Iniobong Ekanem </h1>
 ===========================================================================================
 
-<h2 align="center"> Full-Stack Developer | Freelancer | Tech Educator</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=EDF7AF&center=true&vCenter=true&random=true&width=435&lines=%7C+Tech+Educator+%7C;%7C+Web3+Expert++%7C;%7C+Freelancer+%7C;%7C+Digital+Marketer%7C;%7C+Project+Manager+%7C" alt="Typing SVG" /></a>
 -------------------------------------------------   -------------------------------------------------   -------------------------------------------------
 
-Your full-stack developer, blockchain enthusiast, and tech mentor dedicated to building scalable digital solutions, empowering aspiring developers, and shaping the future of Web3.
+Your full-stack developer, blockchain enthusiast, digital marketer, project manager and tech mentor dedicated to building scalable digital solutions, driving growth in digital markerting, keeping projects on track, empowering aspiring developers and shaping the future of Web3.
 
 💡 With expertise in PHP, JavaScript, Laravel, HTML, CSS, React, and blockchain technologies, I specialize in developing decentralized applications (dApps), smart contracts, and Web3 integrations that drive innovation in the digital economy. My work spans across NFT platforms, DeFi solutions, and blockchain-powered automation tools, ensuring security, transparency, and efficiency in modern applications.
 
-🌍 Beyond coding, I’m committed to tech education and community building, mentoring developers and leading discussions on blockchain adoption, decentralized finance, and the future of the internet. Whether it’s optimizing backend architectures, enhancing smart contract security, or exploring Layer 2 scaling solutions, I thrive on pushing the boundaries of Web3 technology.
+🌍 Beyond coding, I’m committed to tech education and community building, drving growth as a digital marketer, keeping projects on track as a project manager, mentoring developers and leading discussions on blockchain adoption, decentralized finance, and the future of the internet. Whether it’s optimizing backend architectures, enhancing smart contract security, or exploring Layer 2 scaling solutions, I thrive on pushing the boundaries of Web3 technology.
 
 💡 What I Do <br>
 🔹 Student Coordinator at Mita School, leading student programs and tech events. <br>
 🔹 Founder of my own tech agency, specializing in Web3, custom web solutions, and automation. <br>
-🔹 Freelancer & Consultant, offering web development, blockchain solutions, and digital marketing services. <br>
+🔹 Freelancer & Consultant, offering web development, blockchain solutions, project management services and digital marketing services. <br>
 
 🔥 Projects & Experience <br>
 💻 Developed a Shop Website using Laravel & Bootstrap 5.<br>
