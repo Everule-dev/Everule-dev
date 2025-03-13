@@ -60,3 +60,22 @@ src="https://img.shields.io/twitch/status/everule?logo=twitchsx&style=for-the-ba
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Everule-dev/Everule-dev" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Everule-dev&repo=Everule-dev&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+## 📌 Featured Projects  
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|------------|-----------|-----------|
+| 🚀 [Decentralized Payment Gateway](#) | A Web3 payment solution enabling crypto transactions for businesses. | Solidity, Web3.js, React, Node.js | [Live Demo](#) |
+| 🌐 [NFT Marketplace](#) | A full-stack NFT marketplace built with React, Solidity, and IPFS. | Solidity, React, IPFS, Hardhat | [Live Demo](#) |
+| 💰 [DeFi Staking Platform](#) | Smart contract-powered staking dApp with yield farming. | Solidity, Web3.js, Next.js | [Live Demo](#) |
+| 🛍 [E-Commerce Store](#) | A multi-vendor online marketplace with seamless payment integration. | Laravel, Vue.js, MySQL, Stripe API | [Live Demo](#) |
+| 🔗 [Blockchain Voting System](#) | A transparent and tamper-proof blockchain-based voting system. | Solidity, Ethereum, React | [Live Demo](#) |
+| 📊 [Crypto Portfolio Tracker](#) | A dashboard for tracking real-time crypto prices and investments. | React, Binance API, CoinGecko API | [Live Demo](#) |
+| 🏦 [Crowdfunding Smart Contract](#) | A decentralized crowdfunding platform using Ethereum smart contracts. | Solidity, Web3.js, Next.js | [Live Demo](#) |
+| 🎮 [Metaverse Game](#) | A blockchain-powered metaverse game with NFT integration. | Unity, Web3.js, Polygon | [Live Demo](#) |
+| 🔥 [AI-Powered Chatbot](#) | An intelligent chatbot powered by AI & NLP for customer support. | Python, TensorFlow, Flask | [Live Demo](#) |
+
+---
+
+🌟 **More Projects:** Check out my [GitHub Repositories](https://github.com/Everule-dev) for additional work!  
+
