@@ -65,15 +65,15 @@ src="https://img.shields.io/twitch/status/everule?logo=twitchsx&style=for-the-ba
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|------------|-----------|-----------|
-| 🚀 [Decentralized Payment Gateway](#) | A Web3 payment solution enabling crypto transactions for businesses. | Solidity, Web3.js, React, Node.js | [Live Demo](#) |
-| 🌐 [NFT Marketplace](#) | A full-stack NFT marketplace built with React, Solidity, and IPFS. | Solidity, React, IPFS, Hardhat | [Live Demo](#) |
-| 💰 [DeFi Staking Platform](#) | Smart contract-powered staking dApp with yield farming. | Solidity, Web3.js, Next.js | [Live Demo](#) |
-| 🛍 [E-Commerce Store](#) | A multi-vendor online marketplace with seamless payment integration. | Laravel, Vue.js, MySQL, Stripe API | [Live Demo](#) |
-| 🔗 [Blockchain Voting System](#) | A transparent and tamper-proof blockchain-based voting system. | Solidity, Ethereum, React | [Live Demo](#) |
-| 📊 [Crypto Portfolio Tracker](#) | A dashboard for tracking real-time crypto prices and investments. | React, Binance API, CoinGecko API | [Live Demo](#) |
-| 🏦 [Crowdfunding Smart Contract](#) | A decentralized crowdfunding platform using Ethereum smart contracts. | Solidity, Web3.js, Next.js | [Live Demo](#) |
-| 🎮 [Metaverse Game](#) | A blockchain-powered metaverse game with NFT integration. | Unity, Web3.js, Polygon | [Live Demo](#) |
-| 🔥 [AI-Powered Chatbot](#) | An intelligent chatbot powered by AI & NLP for customer support. | Python, TensorFlow, Flask | [Live Demo](#) |
+| 🚀 [Decentralized Payment Gateway](#) | A Web3 payment solution enabling crypto transactions for businesses. | Solidity, Web3.js, React, Node.js | <a href="#" style="color:#facc15;">Live Demo</a> |
+| 🌐 [NFT Marketplace](#) | A full-stack NFT marketplace built with React, Solidity, and IPFS. | Solidity, React, IPFS, Hardhat | <a href="#" style="color:#facc15;">Live Demo</a> |
+| 💰 [DeFi Staking Platform](#) | Smart contract-powered staking dApp with yield farming. | Solidity, Web3.js, Next.js | <a href="#" style="color:#facc15;">Live Demo</a> |
+| 🛍 [E-Commerce Store](#) | A multi-vendor online marketplace with seamless payment integration. | Laravel, Vue.js, MySQL, Stripe API | <a href="#" style="color:#facc15;">Live Demo</a> |
+| 🔗 [Blockchain Voting System](#) | A transparent and tamper-proof blockchain-based voting system. | Solidity, Ethereum, React | <a href="#" style="color:#facc15;">Live Demo</a> |
+| 📊 [Crypto Portfolio Tracker](#) | A dashboard for tracking real-time crypto prices and investments. | React, Binance API, CoinGecko API | <a href="#" style="color:#facc15;">Live Demo</a> |
+| 🏦 [Crowdfunding Smart Contract](#) | A decentralized crowdfunding platform using Ethereum smart contracts. | Solidity, Web3.js, Next.js | <a href="#" style="color:#facc15;">Live Demo</a> |
+| 🎮 [Metaverse Game](#) | A blockchain-powered metaverse game with NFT integration. | Unity, Web3.js, Polygon | <a href="#" style="color:#facc15;">Live Demo</a> |
+| 🔥 [AI-Powered Chatbot](#) | An intelligent chatbot powered by AI & NLP for customer support. | Python, TensorFlow, Flask | <a href="#" style="color:#facc15;">Live Demo</a> |
 
 ---
 
