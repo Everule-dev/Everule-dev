@@ -15,6 +15,7 @@ Your full-stack developer, blockchain enthusiast, digital marketer, project mana
 💡 What I Do <br>
 🔹 Student Coordinator at Mita School, leading student programs and tech events. <br>
 🔹 Founder of my own tech agency, specializing in Web3, custom web solutions, and automation. <br>
+🔹 Project Manager at Heriglob Group of Companies. <br>
 🔹 Freelancer & Consultant, offering web development, blockchain solutions, project management services and digital marketing services. <br>
 
 🔥 Projects & Experience <br>
