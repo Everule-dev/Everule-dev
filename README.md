@@ -3,7 +3,7 @@
 <h1 align="center">My name is Iniobong Ekanem </h1>
 ===========================================================================================
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=EDF7AF&center=true&vCenter=true&random=true&width=435&lines=%7C+Tech+Educator+%7C;%7C+Web3+Expert++%7C;%7C+Freelancer+%7C;%7C+Digital+Marketer%7C;%7C+Project+Manager+%7C" alt="Typing SVG" /></a></h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=EDF7AF&center=true&vCenter=true&random=true&width=435&lines=%7C+Tech+Educator+%7C;%7C+Web3+Enthusiast++%7C;%7C+Freelancer+%7C;%7C+Digital+Marketer%7C;%7C+Project+Manager+%7C" alt="Typing SVG" /></a></h3>
 -------------------------------------------------   -------------------------------------------------   -------------------------------------------------
 
 Your full-stack developer, blockchain enthusiast, digital marketer, project manager and tech mentor dedicated to building scalable digital solutions, driving growth in digital markerting, keeping projects on track, empowering aspiring developers and shaping the future of Web3.
@@ -26,7 +26,7 @@ Your full-stack developer, blockchain enthusiast, digital marketer, project mana
 
 * 🖥️  See my portfolio at [Github](http://github.com/Everule-dev/)<br>
 * ✉️  You can contact me at [iniobongumoekanem@outlook.com](mailto:iniobongumoekanem@outlook.com)<br>
-* 🚀  I'm currently working on [Mitaschool](http://mitaschool.com/)<br>
+* 🚀  I'm currently working at [Mitaschool](http://mitaschool.com/)<br>
 * 🧠  I'm learning Digital Marketing<br>
 * 🤝  I'm open to collaborating on Cash Drop Tech<br>
 * ⚡  Coding is harder than Heartbreak<br>
